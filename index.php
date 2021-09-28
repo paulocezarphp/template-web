@@ -1,9 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title></title>
-</head>
-<body>
-
-</body>
-</html>
+<?php
+   include("header.php");
+   include("site/page-home.php");
+   include("footer.php");
+?>
